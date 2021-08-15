@@ -6,6 +6,7 @@ class Cars:
     def show(self):
         print(self.name)
         print(self.model)
+        print("None of us are perfect")
 
 
 class Ids:
